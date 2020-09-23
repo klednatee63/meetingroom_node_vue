@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit:300,400,600');
+html, body {
+    font-family: 'Kanit', sans-serif;
+}
+
+body {
+    background-color: #EEEEEE;
+}
+
+.card,
+.card-header,
+.form-control,
+.btn {
+    border-radius: 0 !important;
+}
+
+.card {
+    border-color: #17A2B8;
+}
+
+.card-header {
+    background-color: #17A2B8;
+    color: #FFFFFF;
+}
+
+label {
+    color: #6C757D;
+    font-weight: 300;
+}
